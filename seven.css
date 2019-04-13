@@ -1,0 +1,38 @@
+.body{
+    background-color: black;
+}
+
+.container{
+    background-image: url("images/dice.jpg");
+    max-width: 100%;
+    min-height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#prompter{
+    color: white;
+}
+
+#smallHead{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+#playButton{
+    margin-top: 3%;
+    margin-left: 8%;
+}
+
+.table {
+    min-width: 100%;
+    background-color: rgba(39, 39, 39, 0.336)
+}
